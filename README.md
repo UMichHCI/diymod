@@ -1,5 +1,14 @@
 # DIY-MOD: Personalized Content Moderation System
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Node.js](https://img.shields.io/badge/node-16+-green.svg)
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
+**Tags**: `content-moderation`, `llm`, `hci`, `personalized-moderation`, `browser-extension`
+
+Copyright © 2026 The Regents of the University of Michigan
+Social Computing Lab
+Innovation Partnerships
+
 This repository contains the official implementation for the paper:
 
 **What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation**  
@@ -18,7 +27,6 @@ The system consists of two primary components:
     *   **Backend**: A Python/FastAPI server that handles content processing, LLM interaction, and caching.
     *   **Browser Extension**: A Chrome extension that intercepts web content and applies real-time transformations.
 
-2.  **Research Tools**:
 2.  **Research Tools**:
     *   **Dual-Feed System** (Section 6): A controlled simulation used in our user studies. [Live Demo](https://diy-mod.vercel.app/) | [Readme](reddit-clone/README.md)
 
@@ -96,7 +104,7 @@ npm run build
 *   **Environment Variables**: API keys and secrets are managed in `Backend/.env`.
 *   **Extension Settings**: Configurable via the extension's popup interface.
 
-## Research & User Study Tools
+## Research & User Study Tools [Study 2]
 
 To replicate our study environment or test with the Reddit Clone:
 
@@ -131,6 +139,32 @@ python process_json_custom_feed.py --create-example
 python process_json_custom_feed.py custom_feed_example.json --save --user demo-user --title "Test Feed"
 ```
 
+## Community & Support
+
+* **Community Page**: Join the conversation on our [GitHub Discussions](https://github.com/UMichHCI/diymod/discussions) page.
+* **Contributing**: We welcome contributions! Please review our [Contributor Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+* **Support**: For UMich open source ecosystem support, please email [UMichOpenSourceSoftware@umich.edu](mailto:UMichOpenSourceSoftware@umich.edu).
+* **Research Lab Context**: DIY-MOD was developed by researchers at the **Social Computing Lab** at the University of Michigan. 
+
+## Citation
+
+If you use this software or our research, please cite our paper and the repository. 
+
+```bibtex
+@article{rashed2026diymod,
+  title={What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation},
+  author={Rashed, Rayhan and Jahanbakhsh, Farnaz},
+  journal={arXiv preprint arXiv:2509.22861},
+  year={2026}
+}
+```
+
+To cite the repository directly, use the Zenodo DOI:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
 ## License
 
-[MIT License](LICENSE)
+Copyright © 2026 The Regents of the University of Michigan
+Innovation Partnerships
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license, CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or see the [LICENSE](LICENSE) file.

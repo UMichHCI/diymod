@@ -13,6 +13,7 @@ reddit-clone/dist/*
 reddit-clone/npm-debug.log*
 reddit-clone/yarn-debug.log*
 reddit-clone/yarn-error.log*
+reddit-clone/.next/*
 **/.DS_Store
 **/.DS_Store?
 **/__pycache__/

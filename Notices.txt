@@ -1,0 +1,7 @@
+Copyright © 2026 The Regents of the University of Michigan
+
+This software relies on third-party dependencies as part of its execution. For a full list of dependencies and their respective licenses, please refer to the corresponding dependency files in this project:
+
+- Python Backend Dependencies: `Backend/requirements.txt`
+- Browser Extension Dependencies: `BrowserExtension/package.json`
+- Reddit Clone Frontend Dependencies: `reddit-clone/package.json`

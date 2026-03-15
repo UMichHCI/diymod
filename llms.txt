@@ -1,0 +1,22 @@
+# DIY-MOD (Personalized Content Transformation)
+
+> DIY-MOD is an end-to-end system that enables users to personalize their online content experience without platform-side censorship.
+
+## Project Structure & Architecture
+
+The repository is divided into three key areas:
+1. `Backend/`: Python/FastAPI server managing LLM interventions, content processing pipelines, and task queues (Celery/Redis).
+2. `BrowserExtension/`: A Chrome extension that interfaces with the backend to intercept and manipulate DOM elements in real time.
+3. `reddit-clone/`: A controlled research environment used in user studies (Dual-Feed System) to validate the efficacy of personalized moderation.
+
+## Key Technologies
+- **Backend:** Python 3.8+, FastAPI, Celery, Redis, OpenAI API, Google Gemini API.
+- **Frontend/Extension:** JavaScript, React, Next.js (for reddit-clone).
+
+## Core Concepts
+- **Content Transformation**: Instead of blocking, the system applies text replacement, blurring, visual warnings, and summarization.
+- **Personalized Moderation**: Users specify their preferences in natural language (e.g., "blur out spoilers for The Last of Us").
+
+## Learn More
+- [Read the Paper](https://arxiv.org/abs/2509.22861)
+- [Official Website](https://rayhan.io/diymod/)
