@@ -3,17 +3,15 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-16+-green.svg)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
-**Tags**: `content-moderation`, `llm`, `hci`, `personalized-moderation`, `browser-extension`
 
 Copyright © 2026 The Regents of the University of Michigan
 Social Computing Lab
-Innovation Partnerships
 
 This repository contains the official implementation for the paper:
 
-**What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation**  
-*Rayhan Rashed and Farnaz Jahanbakhsh*  
-📄 [Read the Paper](https://arxiv.org/abs/2509.22861) | 🌐 [Project Website](https://rayhan.io/diymod/)
+> **What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation**  
+> *Rayhan Rashed and Farnaz Jahanbakhsh*  
+> 📄 [Read the Paper](https://arxiv.org/abs/2509.22861) | 🌐 [Project Website](https://rayhan.io/diymod/)
 
 ## Overview
 
@@ -182,6 +180,5 @@ To cite the repository directly, use the Zenodo DOI:
 ## License
 
 Copyright © 2026 The Regents of the University of Michigan
-Innovation Partnerships
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license, CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or see the [LICENSE](LICENSE) file.
