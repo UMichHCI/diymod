@@ -148,8 +148,25 @@ python process_json_custom_feed.py custom_feed_example.json --save --user demo-u
 
 ## Citation
 
-If you use this software or our research, please cite our paper and the repository. 
+If you use this software or our research, please cite our CHI '26 paper and/or the repository. 
 
+**Official Publication (CHI '26):**
+```bibtex
+@inproceedings{rashed2026diymod,
+  author = {Rashed, Rayhan and Jahanbakhsh, Farnaz},
+  title = {What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation},
+  year = {2026},
+  isbn = {979-8-4007-2278-3/2026/04},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3772318.3790495},
+  doi = {10.1145/3772318.3790495},
+  booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+  location = {Barcelona, Spain},
+  series = {CHI '26}
+}
+```
+
+**arXiv Preprint:**
 ```bibtex
 @article{rashed2026diymod,
   title={What If Moderation Didn't Mean Suppression? A Case for Personalized Content Transformation},
@@ -160,7 +177,7 @@ If you use this software or our research, please cite our paper and the reposito
 ```
 
 To cite the repository directly, use the Zenodo DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19042745.svg)](https://doi.org/10.5281/zenodo.19042745)
 
 ## License
 
