@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-16+-green.svg)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Copyright © 2026 The Regents of the University of Michigan
 Social Computing Lab
@@ -15,7 +15,7 @@ This repository contains the official implementation for the paper:
 
 ## Overview
 
-**DIY-MOD** is an end-to-end system that enables users to personalize their online content experience without platform-side censorship. Instead of simply blocking unwanted content, DIY-MOD transforms it using Large Language Models (LLMs)—applying interventions such as blurring, warning labels, or content rewriting based on user-defined natural language preferences.
+**DIY-MOD** is an end-to-end system that enables users to personalize their online content experience without platform-side censorship. Instead of simply blocking unwanted content, DIY-MOD transforms it.
 
 ## System Architecture
 
@@ -181,4 +181,4 @@ To cite the repository directly, use the Zenodo DOI:
 
 Copyright © 2026 The Regents of the University of Michigan
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license, CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or see the [LICENSE](LICENSE) file.
+This project is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions in the license. See the [LICENSE](LICENSE) file for the full text.
