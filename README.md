@@ -181,4 +181,4 @@ To cite the repository directly, use the Zenodo DOI:
 
 Copyright © 2026 The Regents of the University of Michigan
 
-This project is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions in the license. See the [LICENSE](LICENSE) file for the full text.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the further details.
